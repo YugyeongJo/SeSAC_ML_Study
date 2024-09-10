@@ -82,13 +82,13 @@ SeSAC_Database_Study/
 
 |번호|구분|파일|설명|비고|
 |--|--|--|--|--|
-|01|Data Handling|[01_Readcsv_summary.ipynb](./class_file/01_Readcsv_summary.ipynb)|Data의 타입과 핸들링 방법 학습||
-|02|DataFrame|[02_df_handling_index.ipynb](./class_file/02_df_handling_index.ipynb)|DataFrame 다루기||
+|01|Data Handling|[01_Readcsv_summary.ipynb](./class_file/Data_Handling/01_Readcsv_summary.ipynb)|Data의 타입과 핸들링 방법 학습||
+|02|DataFrame|[02_df_handling_index.ipynb](./class_file/Data_Handling/02_df_handling_index.ipynb)|DataFrame 다루기||
 |03|DataFrame Sorting|[03_df_sorting.ipynb](./class_file/03_df_sorting.ipynb)|DataFrame Sorting 방법 학습||
-|04|DataFrame Merge|[04_df_merge_groupby.ipynb](./class_file/04_df_merge_groupby.ipynb)|DataFrame 조작 방법 학습||
-|05|Data Visualization|[Seaborn_01.ipynb](./class_file/Seaborn_01.ipynb)|Seaborn을 활용한 시각화||
-|06|Data Visualization|[Seaborn_02.ipynb](./class_file/Seaborn_02.ipynb)|Seaborn Matplotlib를 통한 시각화||
-|07|Data Visualization|[Seaborn_03.ipynb](./class_file/Seaborn_03.ipynb)|Seaborn Matplotlib를 통한 시각화||
+|04|DataFrame Merge|[04_df_merge_groupby.ipynb](./class_file/Data_Handling/04_df_merge_groupby.ipynb)|DataFrame 조작 방법 학습||
+|05|Data Visualization|[Seaborn_01.ipynb](./class_file/Data_Handling/Seaborn_01.ipynb)|Seaborn을 활용한 시각화||
+|06|Data Visualization|[Seaborn_02.ipynb](./class_file/Data_HandlingSeaborn_02.ipynb)|Seaborn Matplotlib를 통한 시각화||
+|07|Data Visualization|[Seaborn_03.ipynb](./class_file/Data_Handling/Seaborn_03.ipynb)|Seaborn Matplotlib를 통한 시각화||
 ||||||
 ||||||
 ||||||
