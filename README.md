@@ -61,8 +61,14 @@ SeSAC_Database_Study/
 
 ## 💻 File
 
+### 💻 Basic Settings
+|번호|구분|파일|설명|비고|
+|--|--|--|--|--|
+|01|Basic Settings|[Settings_example.ipynb](./Settings_example.ipynb)|기본 환경 세팅||
+
+### 📝 Class File
 <details open>
-<summary>📝 Class File </summary>
+<summary> Data Handling </summary>
 
 |번호|구분|파일|설명|비고|
 |--|--|--|--|--|
@@ -80,7 +86,18 @@ SeSAC_Database_Study/
 </details>
 
 <details open>
-<summary>💾 Dataset </summary>
+<summary> Machine Learning </summary>
+
+|번호|구분|파일|설명|비고|
+|--|--|--|--|--|
+|01|||||
+||||||
+||||||
+
+### 💾 Dataset
+
+<details open>
+<summary> Dataset </summary>
 
 |번호|구분|파일|설명|비고|
 |--|--|--|--|--|
@@ -99,8 +116,9 @@ SeSAC_Database_Study/
 
 </details>
 
+### 📄 Docs
 <details open>
-<summary>📄 Docs </summary>
+<summary> Docs</summary>
 
 |번호|구분|파일|설명|비고|
 |--|--|--|--|--|
