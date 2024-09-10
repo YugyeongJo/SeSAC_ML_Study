@@ -132,9 +132,6 @@ SeSAC_Database_Study/
 |07|Dataset|[stock valuation.csv](./dataset/stock%valuation.csv)|||
 |08|Dataset|[ToothGrowth.csv](./dataset/ToothGrowth.csv)|||
 |09|Dataset|[남북한발전전력량.csv](./dataset/남북한발전전력량.csv)|||
-|10|||||
-|11|||||
-|12|||||
 
 </details>
 
@@ -159,7 +156,10 @@ SeSAC_Database_Study/
 
 |번호|구분|파일|설명|비고|
 |--|--|--|--|--|
-|01|||||
+|01|단순회귀분석|[01_LinearRegression.ipynb](./docs/ML/01_LinearRegression.ipynb)|선형회귀모델 실습||
+|02|||||
+|03|||||
+
 
 </details>
 
