@@ -63,8 +63,8 @@ SeSAC_Database_Study/
     ├── 02_df_handling.ipynb
     ├── 03_df_sorting.ipynb
     ├── 04_df_merger_groupby.ipynb
-    ├── 
-    ├──
+    ├── 05_Seaborn.ipynb
+    ├── titanic_reg.png
     ├──   
     └── 
 
