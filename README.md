@@ -4,7 +4,6 @@
 
 SeSAC ML Study 레포지토리는 학습한 머신러닝 관련 내용을 정리한 것입니다. 주요 개념과 기법들을 다루며, 학습 과정에서 다룬 내용들을 기록하고 있습니다.
 
-
 ### 학습 내용
 
 |구분|학습 내용|
@@ -71,9 +70,9 @@ SeSAC_Database_Study/
 |02|DataFrame|[02_df_handling_index.ipynb](./class_file/02_df_handling_index.ipynb)|DataFrame 다루기||
 |03|DataFrame Sorting|[03_df_sorting.ipynb](./class_file/03_df_sorting.ipynb)|DataFrame Sorting 방법 학습||
 |04|DataFrame Merge|[04_df_merge_groupby.ipynb](./class_file/04_df_merge_groupby.ipynb)|DataFrame 조작 방법 학습||
-|05||[Seaborn_01.ipynb](./class_file/Seaborn_01.ipynb)|||
-|06||[Seaborn_02.ipynb](./class_file/Seaborn_02.ipynb)|||
-|07||[Seaborn_03.ipynb](./class_file/Seaborn_03.ipynb)|||
+|05|Data Visualization|[Seaborn_01.ipynb](./class_file/Seaborn_01.ipynb)|Seaborn을 활용한 시각화||
+|06|Data Visualization|[Seaborn_02.ipynb](./class_file/Seaborn_02.ipynb)|Seaborn Matplotlib를 통한 시각화||
+|07|Data Visualization|[Seaborn_03.ipynb](./class_file/Seaborn_03.ipynb)|Seaborn Matplotlib를 통한 시각화||
 ||||||
 ||||||
 ||||||
@@ -90,8 +89,8 @@ SeSAC_Database_Study/
 |03|Dataset|[mtcars.csv](./dataset/mtcars.csv)|||
 |04|Dataset|[seoul_sgg_list.csv](./dataset/seoul_sgg_list.csv)|||
 |05|Dataset|[seoul_sgg_stat.csv](./dataset/seoul_sgg_stat.csv)|||
-|06|Dataset|[stock price.csv](./dataset/stock price.csv)|||
-|07|Dataset|[stock valuation.csv](./dataset/stock valuation.csv)|||
+|06|Dataset|[stock price.csv](./dataset/stock%price.csv)|||
+|07|Dataset|[stock valuation.csv](./dataset/stock%valuation.csv)|||
 |08|Dataset|[ToothGrowth.csv](./dataset/ToothGrowth.csv)|||
 |09|Dataset|[남북한발전전력량.csv](./dataset/남북한발전전력량.csv)|||
 |10|||||
@@ -109,8 +108,8 @@ SeSAC_Database_Study/
 |02|DataFrame Handling|[02_df_handling.ipynb](./docs/02_df_handling.ipynb)|DataFrame 조작하기||
 |03|DataFrame Sorting|[03_df_sorting.ipynb](./docs/03_df_sorting.ipynb)|DataFrame 정렬하기||
 |04|DataFrame Merge|[04_df_merger_groupby.ipynb](./docs/04_df_merger_groupby.ipynb)|DataFrame 합치기||
-|05|||||
-|06|||||
+|05|Data Visualization|[05_Seaborn.ipynb](./docs/05_Seaborn.ipynb)|Seaborn 데이터 시각화||
+|06|img|[titanic_reg.png](./docs/titanic_reg.png)|시각화 이미지||
 
 </details>
 
