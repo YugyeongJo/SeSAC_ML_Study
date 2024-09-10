@@ -58,12 +58,16 @@ SeSAC_Database_Study/
 │   ├── ToothGrowth.csv
 │   └── 남북한발전전력량.xlsx
 └── docs/
-    ├── 01_Readcsv.ipynb
-    ├── 02_df_handling.ipynb
-    ├── 03_df_sorting.ipynb
-    ├── 04_df_merger_groupby.ipynb
-    ├── 05_Seaborn.ipynb
-    ├── titanic_reg.png
+    ├── Data_Handling/
+    │   ├── 01_Readcsv.ipynb
+    │   ├── 02_df_handling.ipynb
+    │   ├── 03_df_sorting.ipynb
+    │   ├── 04_df_merger_groupby.ipynb
+    │   ├── 05_Seaborn.ipynb
+    │   └── titanic_reg.png
+    ├── ML/
+    │   ├── 
+    │   └── 
     ├──   
     └── 
 
@@ -135,8 +139,9 @@ SeSAC_Database_Study/
 </details>
 
 ### 📄 Docs
+
 <details open>
-<summary> Docs</summary>
+<summary> Data Handling </summary>
 
 |번호|구분|파일|설명|비고|
 |--|--|--|--|--|
@@ -146,6 +151,15 @@ SeSAC_Database_Study/
 |04|DataFrame Merge|[04_df_merger_groupby.ipynb](./docs/04_df_merger_groupby.ipynb)|DataFrame 합치기||
 |05|Data Visualization|[05_Seaborn.ipynb](./docs/05_Seaborn.ipynb)|Seaborn 데이터 시각화||
 |06|img|[titanic_reg.png](./docs/titanic_reg.png)|시각화 이미지||
+
+</details>
+
+<details open>
+<summary> ML </summary>
+
+|번호|구분|파일|설명|비고|
+|--|--|--|--|--|
+|01|||||
 
 </details>
 
