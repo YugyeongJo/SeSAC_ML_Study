@@ -17,6 +17,7 @@ python
 pandas
 matplotlib
 seaborn
+scikit learn
 
 |<center>MySQL</center>|
 |--|
