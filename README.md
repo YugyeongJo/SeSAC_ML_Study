@@ -28,24 +28,35 @@ seaborn
 ```plaintext
 SeSAC_Database_Study/
 ├── README.md 
-├── .env
+├── Settings_example.ipynb
 ├── class_file/
-│   ├── 01_Readcsv_summary.ipynb
-|   ├── 02_df_handling_index.ipynb
-|   ├── 03_df_sorting.ipynb
-|   ├── 04_df_merge_groupby.ipynb
-|   ├── Seaborn_01.ipynb
-|   ├── Seaborn_02.ipynb
-│   └── Seaborn_03.ipynb
+│    ├── Data_Handling/
+│    │     ├── 01_Readcsv_summary.ipynb
+│    │     ├── 02_df_handling_index.ipynb
+│    │     ├── 03_df_sorting.ipynb
+│    │     ├── 04_df_merge_groupby.ipynb
+│    │     ├── Seaborn_01.ipynb
+│    │     ├── Seaborn_02.ipynb
+│    │     └── Seaborn_03.ipynb
+│    └── Machine_Learning/
+│          ├── 01_1_단순회귀분석 파라메터 구하기.ipynb
+│          ├── 01_2_k최근접분류_표준화.ipynb
+│          ├── 01_3_k최근접회귀.ipynb
+│          ├── 02_1_결정트리_CV_GrId.ipynb
+│          ├── 02_2_랜덤포레스트_GB.ipynb
+│          ├── 03_3_특성공학과 규제.ipynb
+│          └── ml_part1_pdf/
+│                ├── 01_ML Modelling process.pdf
+│                └── 02_ML knn_lm_tree.pdf
 ├── dataset/
 │   ├── cars.csv
-|   ├── InsectSprays.csv
-|   ├── mtcars.xlsx
+│   ├── InsectSprays.csv
+│   ├── mtcars.xlsx
 │   ├── seoul_sgg_list.xlsx
-|   ├── seoul_sgg_stat.xlsx
-|   ├── stock price.xlsx
+│   ├── seoul_sgg_stat.xlsx
+│   ├── stock price.xlsx
 │   ├── stock valuation.xlsx
-|   ├── ToothGrowth.csv
+│   ├── ToothGrowth.csv
 │   └── 남북한발전전력량.xlsx
 └── docs/
     ├── 01_Readcsv.ipynb
@@ -90,7 +101,15 @@ SeSAC_Database_Study/
 
 |번호|구분|파일|설명|비고|
 |--|--|--|--|--|
-|01|||||
+|01||[01_1_단순회귀분석 파라메터 구하기.ipynb](./class_file/Machine_Learning/01_1_단순회귀분석%20파라메터%20구하기.ipynb)|||
+|02||[01_2_k최근접분류_표준화.ipynb](./class_file/Machine_Learning/01_2_k최근접분류_표준화.ipynb)|||
+|03||[01_3_k최근접회귀.ipynb](./class_file/Machine_Learning/01_3_k최근접회귀.ipynb)|||
+|04||[02_1_결정트리_CV_GrId.ipynb](./class_file/Machine_Learning/02_1_결정트리_CV_GrId.ipynb)|||
+|05||[02_2_랜덤포레스트_GB.ipynb](./class_file/Machine_Learning/02_2_랜덤포레스트_GB.ipynb)|||
+|06||[03_3_특성공학과 규제.ipynb](./class_file/Machine_Learning/03_3_특성공학과%20규제.ipynb)|||
+||||||
+||||||
+||||||
 ||||||
 ||||||
 
