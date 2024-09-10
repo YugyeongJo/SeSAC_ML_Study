@@ -6,14 +6,15 @@ SeSAC ML Study 레포지토리는 학습한 머신러닝 관련 내용을 정리
 
 ### 학습 내용
 
+
 |구분|학습 내용|
 |--|--|
-|**데이터 처리**|Pandas를 사용한 데이터 읽기 및 관리 기법|
-|**데이터 시각화**|Matplotlib과 Seaborn을 활용한 시각화 방법|
-|**데이터 분석**|탐색적 데이터 분석(EDA) 및 통계적 모델링|
+|**데이터 처리**|Pandas를 사용한 데이터 읽기, 관리, 처리 기법 및 DataFrame 조작|
+|**데이터 시각화**|Matplotlib과 Seaborn을 활용한 다양한 시각화 기법|
+|**머신러닝 기법**|단순 회귀, k-최근접 이웃 분류 및 회귀, 결정 트리, 랜덤 포레스트, 특성 공학|
+|**탐색적 데이터 분석**|탐색적 데이터 분석(EDA) 및 통계적 모델링|
 
 ## 🛠️ 기술 스택
-seaborn
 
 |<center>VScode</center>|<center>Python</center>|<center>Pandas</center>|<center>Sklearn</center>|<center>Matplotlib</center>|<center>Seaborn</center>|
 |--|--|--|--|--|--|
