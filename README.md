@@ -44,9 +44,12 @@ SeSAC_Database_Study/
 │          ├── 02_1_결정트리_CV_GrId.ipynb
 │          ├── 02_2_랜덤포레스트_GB.ipynb
 │          ├── 03_3_특성공학과 규제.ipynb
-│          └── ml_part1_pdf/
+│          ├── 04_1_로지스틱회귀.ipynb
+│          ├── 04_3_SVM.ipynb
+│          └── class_docs/
 │                ├── 01_ML Modelling process.pdf
-│                └── 02_ML knn_lm_tree.pdf
+│                ├── 02_ML knn_lm_tree.pdf
+│                └── 03_ML_logist_regul_pca.pdf
 ├── dataset/
 │   ├── cars.csv
 │   ├── InsectSprays.csv
@@ -56,7 +59,8 @@ SeSAC_Database_Study/
 │   ├── stock price.xlsx
 │   ├── stock valuation.xlsx
 │   ├── ToothGrowth.csv
-│   └── 남북한발전전력량.xlsx
+│   ├── 남북한발전전력량.xlsx
+│   └── ThoraricSurgery.csv
 └── docs/
     ├── Data_Handling/
     │   ├── 01_Readcsv.ipynb
@@ -66,8 +70,11 @@ SeSAC_Database_Study/
     │   ├── 05_Seaborn.ipynb
     │   └── titanic_reg.png
     ├── ML/
-    │   ├── 
-    │   └── 
+    │   ├── 01_LinearRegression.ipynb
+    │   ├── 02_knn.ipynb
+    │   ├── 03_RF.ipynb
+    │   ├── 04_Logistic.ipynb
+    │   └── 05_SVM.ipynb
     ├──   
     └── 
 
@@ -132,6 +139,7 @@ SeSAC_Database_Study/
 |07|Dataset|[stock valuation.csv](./dataset/stock%valuation.csv)|||
 |08|Dataset|[ToothGrowth.csv](./dataset/ToothGrowth.csv)|||
 |09|Dataset|[남북한발전전력량.csv](./dataset/남북한발전전력량.csv)|||
+|10|Dataset|[ThoracicSurgery.csv](./dataset/ThoracicSurgery.csv)|||
 
 </details>
 
