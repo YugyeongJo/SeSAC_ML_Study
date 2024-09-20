@@ -24,7 +24,7 @@ SeSAC ML Study 레포지토리는 학습한 머신러닝 관련 내용을 정리
 ## 📂 Directory Structure
 
 ```plaintext
-SeSAC_Database_Study/
+SeSAC_ML_Study/
 ├── README.md 
 ├── Settings_example.ipynb
 ├── class_file/
